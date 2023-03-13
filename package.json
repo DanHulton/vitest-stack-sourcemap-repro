@@ -1,0 +1,16 @@
+{
+  "name": "vitest-stack-sourcemap-repro",
+  "packageManager": "yarn@3.3.1",
+  "description": "",
+  "scripts": {
+    "test": "vitest "
+  },
+  "main": "./src/main.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "latest",
+    "vite-node": "latest",
+    "vite-tsconfig-paths": "^4.0.5",
+    "vitest": "latest"
+  }
+}
